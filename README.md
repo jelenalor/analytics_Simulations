@@ -20,7 +20,7 @@ Simulate service lines
 
 Running simulation shows:
 - How many customers in the store during any point of time (20 minutes time lapse)
-- How many time the store is clsoed lae by 20, 40 etc minutes
+- How many time the store is closed late by 20, 40 etc minutes
 
 <br>
 
